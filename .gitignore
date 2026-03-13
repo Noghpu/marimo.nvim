@@ -39,3 +39,7 @@ luac.out
 *.x86_64
 *.hex
 
+doc/tags
+.luarocks/
+lua_modules/
+*.rock
